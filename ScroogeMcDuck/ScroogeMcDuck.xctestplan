@@ -1,0 +1,28 @@
+{
+  "configurations" : [
+    {
+      "id" : "9C862CC5-6EB3-4162-BA5B-D5A8D2AB41CB",
+      "name" : "Test Scheme Action",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "targetForVariableExpansion" : {
+      "containerPath" : "container:ScroogeMcDuck.xcodeproj",
+      "identifier" : "426EA5A82542F058003FFFE0",
+      "name" : "ScroogeMcDuck"
+    }
+  },
+  "testTargets" : [
+    {
+      "target" : {
+        "containerPath" : "container:ScroogeMcDuck.xcodeproj",
+        "identifier" : "426EA5BE2542F061003FFFE0",
+        "name" : "ScroogeMcDuckTests"
+      }
+    }
+  ],
+  "version" : 1
+}
